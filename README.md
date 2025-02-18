@@ -36,4 +36,5 @@ These results underscore the need for improving the model’s ability to identif
 - Seaborn version 0.11.2
 ## Sharing and Collaboration
 The shared Jupyter Notebook and Executive Summary are not only a demonstration of my Data Analytics capabilities but also an invitation to inspire and guide others in their Data Analysis endeavors. Your engagement and feedback enrich the collective learning experience, contributing to a dynamic Data Analytics community.
+
 **PS*. The dataset used in this study does not accurately reflect the user behavior within the Waze navigation app.*
